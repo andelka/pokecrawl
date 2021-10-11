@@ -1,4 +1,4 @@
-Europarl
+Pokecrawl
 This is a project to crawl [pokemon.com](https://www.pokemon.com/us/) pages in order to have English-French datasets.
 
 Install
