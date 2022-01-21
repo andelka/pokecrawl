@@ -17,4 +17,4 @@ To crawl the pages of your choice, use the corresponding spider:
 
 For example, to crawl Pokémon TCG card names and output the result to a .json file, use:
 
-`scrapy crawl card_names -O output.json`
+`scrapy crawl card -O output.json`
